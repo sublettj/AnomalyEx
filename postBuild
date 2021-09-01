@@ -1,2 +1,2 @@
-wget -q -O sensor.csv "https://drive.google.com/uc?export=download&id=1dAZ4DdaaieU3DcLh7GPXbJZjpLFtDnH4"
+gdown "https://drive.google.com/uc?id=1dAZ4DdaaieU3DcLh7GPXbJZjpLFtDnH4"
 
