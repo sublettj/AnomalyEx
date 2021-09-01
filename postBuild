@@ -1,1 +1,2 @@
-wget -q -O sensor.csv "https://www.kaggle.com/nphantawee/pump-sensor-data/download"
+wget -q -O sensor.csv "https://drive.google.com/uc?export=download&id=1dAZ4DdaaieU3DcLh7GPXbJZjpLFtDnH4"
+
